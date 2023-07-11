@@ -17,7 +17,4 @@ Read or watch:
 - [asyncio - Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
 - [random.uniform](https://docs.python.org/3/library/random.html#random.uniform)
 
-## :pencil: **Author**
-### :man: Yidnekachew Bantrga
-- [Github](https://github.com/Yidne21)
-- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
+
